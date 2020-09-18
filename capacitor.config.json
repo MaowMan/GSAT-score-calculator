@@ -1,0 +1,13 @@
+{
+  "appId": "com.maowman.gsat_cal",
+  "appName": "學測級分計算機",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "public",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
